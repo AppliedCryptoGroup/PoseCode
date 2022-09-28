@@ -1,0 +1,2 @@
+- Copy the contents from [this contract](https://github.com/adria0/SolRsaVerify/blob/5746d395d782ebb7f1bf599c510c4942c9f18e25/contracts/SolRsaVerify.sol) to contracts/RSALibrary.sol
+- Replace `library SolRsaVerify {` (Line 25) with `contract SolRsaVerify {`
