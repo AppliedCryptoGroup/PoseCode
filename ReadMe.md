@@ -1,5 +1,5 @@
 # POSE: *P*ractical *O*ff-chain *S*mart Contract *E*xecution
-This repository contains the prototype for the paper of the same name.
+This repository contains the prototype for the paper of the same name. Note that this implementation is a research prototype and not ready for production.
 
 ## Overview
 - `SmartContract` contains the Solidity-based *Manager* contract.
